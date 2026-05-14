@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate Data Analyst & Problem Solver 🚀</h3>
+<h3 align="center">A passionate Software Developer & Problem Solver 🚀</h3>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/nikhil09012004)
 
@@ -12,7 +12,6 @@
 - 🌱 I'm currently learning **Advanced ML Algorithms & Business Intelligence**
 - 💬 Ask me about **Data Analysis, Power BI, Python & DSA**
 - 📫 Reach me at **nikhil09012004@gmail.com**
-- 📱 Mobile: **+91 9304803465**
 - ⚡ Fun fact: *"Data tells stories, I help them speak!"*
 
 <p align="center">
@@ -109,13 +108,6 @@
 
 **Matriculation** | *Apr '19 – Mar '20* | Dhanbad, Jharkhand  
 **Percentage:** 89%
-
----
-
-# 🌟 Extracurricular Activities
-
-- 🤝 Volunteered with **Tare Zameen Foundation (NGO)**, supporting community outreach
-- 💻 Participated in the **Binary Blitz Web Hackathon**, gaining hands-on experience in web security, vulnerability analysis, and real-time problem solving
 
 ---
 
